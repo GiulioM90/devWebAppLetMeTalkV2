@@ -1,0 +1,17 @@
+
+
+.btnPlayer {
+  background-color: aquamarine
+}
+.btnPlayer:hover {
+  background-color: rgb(106, 179, 154);
+}
+  #taskList > p {
+    margin:10px;
+  }
+
+
+.card {
+    margin: 10px;
+}
+
